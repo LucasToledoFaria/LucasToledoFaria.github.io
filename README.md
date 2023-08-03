@@ -793,7 +793,7 @@ Claro! Vou substituir os nomes das empresas fictícias pelos nomes que criamos a
 ```
 </details>
 
-
+&nbsp;
 ## Prompts das imagens (utilizando Bing Image Generator)
 - **Banner**
 
