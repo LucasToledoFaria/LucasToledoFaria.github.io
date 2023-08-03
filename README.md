@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma campanha de marketing para o lançamento da plataforma do I2A2 (Institut d'Intelligence Artificielle Appliquée), uma instituição especializada em oferecer cursos e capacitação na área de Inteligência Artificial. A campanha tem como objetivo atrair pessoas interessadas em inteligência artificial, principalmente aquelas que estão em transição de carreira ou que desejam ampliar suas capacidades profissionais.
 
-
+&nbsp;
 ## Resumo do Site
 
 O site possui uma página inicial que destaca a marca do I2A2, com um banner atraente e uma chamada para ação que convida os visitantes a iniciarem suas jornadas na área de IA. Além disso, o site apresenta os motivos pelos quais os interessados devem escolher o I2A2 para aprimorar seus conhecimentos, bem como depoimentos de alunos satisfeitos com os cursos oferecidos.
@@ -11,7 +11,7 @@ Uma seção é dedicada aos cursos em destaque, listando alguns dos principais c
 
 Por fim, o site exibe histórias de sucesso de alunos que obtiveram êxito após concluírem os cursos do I2A2, mostrando o impacto positivo da instituição na vida profissional das pessoas.
 
-
+&nbsp;
 ## Histórico da Conversa
 
 - **Prompt 1**
@@ -20,7 +20,7 @@ preciso que me ajude a criar uma webpage para um campanha de marketing para o la
 - **Resposta 1**
 Você está buscando ajuda para criar uma página da web para uma campanha de marketing para o lançamento da plataforma do I2A2, um instituto especializado em inteligência artificial. O objetivo da campanha é atrair pessoas interessadas em IA, especialmente aquelas que estão em transição de carreira ou desejam expandir suas habilidades profissionais. Posso ajudar com isso!
 
-
+&nbsp;
 - **Prompt 2**
 crie os arquivos html, css e js para essa página
 
@@ -301,7 +301,7 @@ footer {
 ```
 </details>
 
-
+&nbsp;
 - **Prompt 3**
 preciso limitar o tamanho das imagens para não ficarem muito grandes
 
@@ -348,7 +348,7 @@ Claro! Vou adicionar os atributos de tamanho nas imagens para limitar o seu tama
 ```
 </details>
 
-
+&nbsp;
 - **Prompt 4**
 atualize o código que enviou no começo, adicionando os atributos de tamanho nas imagens
 
@@ -467,7 +467,7 @@ Aqui está o código atualizado com os atributos de tamanho nas imagens para lim
 ```
 </details>
 
-
+&nbsp;
 - **Prompt 5**
 atualize o css que me enviou para deixar os elementos cinzas em tom de vermelho
 
@@ -649,7 +649,7 @@ footer {
 ```
 </details>
 
-
+&nbsp;
 - **Prompt 6**
 faça com que apenas o botão "Inicie sua jornada na IA agora!" fique na frente da imagem do banner
 
@@ -671,6 +671,7 @@ Para que o botão "Inicie sua jornada na IA agora!" fique na frente da imagem do
 ```
 </details>
 
+&nbsp;
 - **Prompt 7**
 certo, substitua os nomes das empresas fictícias no código html pelos nomes que acabou de criar
 
@@ -795,16 +796,20 @@ Claro! Vou substituir os nomes das empresas fictícias pelos nomes que criamos a
 
 ## Prompts das imagens (utilizando Bing Image Generator)
 - **Banner**
+
 banner para site de campanha sobre inteligencia artificial
 
-
+&nbsp;
 - **Partner1**
+
 logo para empresa de tecnologia famosa
 
-
+&nbsp;
 - **Partner2**
+
 logo para grande empresa multinacional do setor comercial
 
-
+&nbsp;
 - **Success1**
+
 pessoa feliz por ter concluído um curso sobre inteligencia artificial na i2a2
